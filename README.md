@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-scryfall-cards
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# pruebaTecnica
+>>>>>>> 7e7c171 (Initial commit)
